@@ -1,0 +1,26 @@
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.exe
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.deps.json
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.runtimeconfig.json
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.runtimeconfig.dev.json
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.dll
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\bin\Debug\netcoreapp3.1\assigment5.pdb
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.csprojAssemblyReference.cache
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.AssemblyInfoInputs.cache
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.AssemblyInfo.cs
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.csproj.CoreCompileInputs.cache
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.dll
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.pdb
+C:\Users\Sara\OneDrive\Desktop\programing and desgin pattern\assigment5\assigment5\obj\Debug\netcoreapp3.1\assigment5.genruntimeconfig.cache
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.exe
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.deps.json
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.runtimeconfig.json
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.runtimeconfig.dev.json
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.dll
+C:\Users\Hama\Desktop\assi05\assigment5\bin\Debug\netcoreapp3.1\assigment5.pdb
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.csprojAssemblyReference.cache
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.AssemblyInfoInputs.cache
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.AssemblyInfo.cs
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.csproj.CoreCompileInputs.cache
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.dll
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.pdb
+C:\Users\Hama\Desktop\assi05\assigment5\obj\Debug\netcoreapp3.1\assigment5.genruntimeconfig.cache
